@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m Ming, currently working in Sprinklr on ML and LLM Applications
+- 🌱 I’m currently learning Masters of Science Computer Science in Georgia Institute of Technology
 
 <!--
 **mingboiz/mingboiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
